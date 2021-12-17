@@ -1,0 +1,14 @@
+C:\Users\hasgo\Desktop\Projects\C# Project\sortVisualiser\bin\Release\sortVisualiser.exe.config
+C:\Users\hasgo\Desktop\Projects\C# Project\sortVisualiser\bin\Release\sortVisualiser.exe.manifest
+C:\Users\hasgo\Desktop\Projects\C# Project\sortVisualiser\bin\Release\sortVisualiser.application
+C:\Users\hasgo\Desktop\Projects\C# Project\sortVisualiser\bin\Release\sortVisualiser.exe
+C:\Users\hasgo\Desktop\Projects\C# Project\sortVisualiser\bin\Release\sortVisualiser.pdb
+C:\Users\hasgo\Desktop\Projects\C# Project\sortVisualiser\obj\Release\sortVisualiser.csproj.AssemblyReference.cache
+C:\Users\hasgo\Desktop\Projects\C# Project\sortVisualiser\obj\Release\sortVisualiser.Form1.resources
+C:\Users\hasgo\Desktop\Projects\C# Project\sortVisualiser\obj\Release\sortVisualiser.Properties.Resources.resources
+C:\Users\hasgo\Desktop\Projects\C# Project\sortVisualiser\obj\Release\sortVisualiser.csproj.GenerateResource.cache
+C:\Users\hasgo\Desktop\Projects\C# Project\sortVisualiser\obj\Release\sortVisualiser.csproj.CoreCompileInputs.cache
+C:\Users\hasgo\Desktop\Projects\C# Project\sortVisualiser\obj\Release\sortVisualiser.exe.manifest
+C:\Users\hasgo\Desktop\Projects\C# Project\sortVisualiser\obj\Release\sortVisualiser.application
+C:\Users\hasgo\Desktop\Projects\C# Project\sortVisualiser\obj\Release\sortVisualiser.exe
+C:\Users\hasgo\Desktop\Projects\C# Project\sortVisualiser\obj\Release\sortVisualiser.pdb

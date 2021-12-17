@@ -1,0 +1,10 @@
+C:\Users\hasgo\Desktop\Projects\C# Project\sortVisualiser\bin\Debug\sortVisualiser.exe.config
+C:\Users\hasgo\Desktop\Projects\C# Project\sortVisualiser\bin\Debug\sortVisualiser.exe
+C:\Users\hasgo\Desktop\Projects\C# Project\sortVisualiser\bin\Debug\sortVisualiser.pdb
+C:\Users\hasgo\Desktop\Projects\C# Project\sortVisualiser\obj\Debug\sortVisualiser.csproj.AssemblyReference.cache
+C:\Users\hasgo\Desktop\Projects\C# Project\sortVisualiser\obj\Debug\sortVisualiser.Form1.resources
+C:\Users\hasgo\Desktop\Projects\C# Project\sortVisualiser\obj\Debug\sortVisualiser.Properties.Resources.resources
+C:\Users\hasgo\Desktop\Projects\C# Project\sortVisualiser\obj\Debug\sortVisualiser.csproj.GenerateResource.cache
+C:\Users\hasgo\Desktop\Projects\C# Project\sortVisualiser\obj\Debug\sortVisualiser.csproj.CoreCompileInputs.cache
+C:\Users\hasgo\Desktop\Projects\C# Project\sortVisualiser\obj\Debug\sortVisualiser.exe
+C:\Users\hasgo\Desktop\Projects\C# Project\sortVisualiser\obj\Debug\sortVisualiser.pdb
